@@ -8,3 +8,4 @@ Preview
 ##### Mark Up
 #### Lesson Three
 ##### TBD
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
