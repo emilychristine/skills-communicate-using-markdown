@@ -12,4 +12,7 @@ Preview
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Add Check List
+- [ ] Complete Todays Lessons
+- [ ] Revisit and Complete Next One Tomorrow
 
